@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @AmirHosseinS9
 - 👀 I’m interested in Webprogramming.
 - 🌱 I’m currently learning php.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me.
+- 💞️ I’m looking to collaborate on projects 
+- 📫 How to reach me email:safaeiamir71@gmail.com 
+telegram:@AHSafaei
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
